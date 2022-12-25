@@ -1,0 +1,6 @@
+requests
+ctypes
+random
+pystyle
+PySimpleGUI
+selenium
